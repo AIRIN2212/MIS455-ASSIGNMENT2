@@ -1,0 +1,7 @@
+.header2 {
+    display: flex;
+    table-layout: fixed;
+    float:right;
+    margin-left: 10px;
+    padding-left: 100px;
+         
