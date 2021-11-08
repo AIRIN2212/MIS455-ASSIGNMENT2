@@ -1,41 +1,57 @@
-.header2 {
-    display: flex;
-    table-layout: fixed;
-    float:right;
-    margin-left: 10px;
-    padding-left: 100px;
-         
-}
-.header3{
-    padding: 5px;
-    display: flex;
-    background-color: linen;
-    table-layout: fixed;
-}
-.part3{
-    padding-top: 100px;
-}
-.links {
-    margin-left: 70px;
-    padding: 10px;
-    color:crimson;
-    font-weight: 800;
-    position: relative;
-    z-index: 1;
-    border: 2px solid black;
-    height: 70px;
-    margin: 30px;
-}
- 
-.links a {
-     text-decoration: none;
-     color: darkblue;
-     
+body{ background-color: aliceblue;
     
 }
 
-.links a:hover{
- color:darkblue;
- font-size: 20px;
- box-decoration-break: clone;
+.top{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.top-1{
+    margin: left 220px;
+    margin: right 20px;
+    padding-left: 110px;
+    padding-right: 220px;
+}
+.top-2{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.mid{
+    display: flex;
+}
+
+.mid-1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 80px;
+}
+.bottom{
+    display: flex;
+    align-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.bottom-1{
+    border: solid black 1px;
+    padding-left: 30px;
+}
+.bottom-2{
+    border: solid black 1px;
+    padding-left: 30px;
+}
+.bottom-3{
+    border: solid black 1px;
+    padding-left: 30px;
+}
+.bottom-4{
+    border: solid black 1px;
+    padding-left: 30px;
 }
