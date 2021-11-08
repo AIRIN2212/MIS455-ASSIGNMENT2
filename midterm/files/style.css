@@ -5,3 +5,37 @@
     margin-left: 10px;
     padding-left: 100px;
          
+}
+.header3{
+    padding: 5px;
+    display: flex;
+    background-color: linen;
+    table-layout: fixed;
+}
+.part3{
+    padding-top: 100px;
+}
+.links {
+    margin-left: 70px;
+    padding: 10px;
+    color:crimson;
+    font-weight: 800;
+    position: relative;
+    z-index: 1;
+    border: 2px solid black;
+    height: 70px;
+    margin: 30px;
+}
+ 
+.links a {
+     text-decoration: none;
+     color: darkblue;
+     
+    
+}
+
+.links a:hover{
+ color:darkblue;
+ font-size: 20px;
+ box-decoration-break: clone;
+}
