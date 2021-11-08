@@ -1,8 +1,8 @@
-body{ background-color: aliceblue;
+body{ background-color: lightcyan;
     
 }
 
-.top{
+.container{
     display: flex;
     margin-top: 100px;
     margin-bottom: 10px;
@@ -10,34 +10,54 @@ body{ background-color: aliceblue;
     margin-right: 10px;
     
 }
-.top-1{
+.container-1{
     margin: left 220px;
     margin: right 20px;
     padding-left: 110px;
     padding-right: 220px;
 }
-.top-2{
+.container-2{
     display: flex;
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 10px;
     margin-right: 10px;
 }
-.mid{
+.web{
     display: flex;
 }
 
-.mid-1{
+.web-1{
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 50px;
     margin-right: 80px;
 }
-.bottom{
+.midexam{
     display: flex;
     align-content: center;
     margin-left: 100px;
     margin-right: 100px;
+}
+.midexam-1{
+    border: solid black 1px;
+    padding-left: 30px;
+    margin: 10px;
+}
+.midexam-2{
+    border: solid black 1px;
+    padding-left: 30px;
+    margin: 10px;
+}
+.midexam-3{
+    border: solid black 1px;
+    padding-left: 30px;
+    margin: 10px;
+}
+.midexam-4{
+    border: solid black 1px;
+    padding-left: 30px ;
+    margin: 10px;
 }
 .bottom-1{
     border: solid black 1px;
